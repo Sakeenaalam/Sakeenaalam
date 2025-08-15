@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sakeena Alam
-- 👀 I’m interested in designing, UI/UX, web development
+- 👀 I’m interested in project management, UI/UX, Data Analytics
 - 🌱 I’m currently learning Software architecture
 - 📫 Reach me at sakeenaalam999@gmail.com 
 - 😄 Pronouns: She/Her
